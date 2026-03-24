@@ -1,0 +1,161 @@
+review_id,product_id,customer_id,rating,review_title,review_text,reviewed_at
+1,1,3,5,Outstanding audio,"LogiTech Audio 01: The sound quality is outstanding with crisp highs and deep bass: 5 stars",2026-01-05 10:22:00
+2,1,17,4,Great everyday audio,"LogiTech Audio 01: Great audio for everyday use and the setup was quick: 4 stars",2026-01-12 14:35:00
+3,1,29,3,Decent but overpriced,"LogiTech Audio 01: Decent audio performance but expected more at this price: 3 stars",2026-01-20 09:14:00
+4,1,42,5,Perfect for home office,"LogiTech Audio 01: Perfect for my home office with crystal clear sound all day: 5 stars",2026-02-01 17:48:00
+5,1,55,2,Disappointing quality,"LogiTech Audio 01: Volume control stopped working after two weeks very disappointed: 2 stars",2026-02-08 08:15:00
+6,1,11,4,Good value,"LogiTech Audio 01: Good value for an audio product in this range would buy again: 4 stars",2026-02-14 11:40:00
+7,1,34,5,Best audio I own,"LogiTech Audio 01: Best audio product I have ever owned the brand really delivers: 5 stars",2026-02-20 16:05:00
+8,1,48,3,Average performance,"LogiTech Audio 01: Average audio performance nothing exceptional but gets the job done: 3 stars",2026-02-25 12:30:00
+9,2,7,5,Great budget storage,"NetBolt Storage 02: Excellent budget storage with consistently fast read speeds: 5 stars",2026-01-03 09:45:00
+10,2,22,4,Reliable storage,"NetBolt Storage 02: Reliable and compact has worked flawlessly for three months: 4 stars",2026-01-15 14:20:00
+11,2,36,3,Decent not amazing,"NetBolt Storage 02: Not the fastest storage but solid value for everyday backups: 3 stars",2026-01-22 08:35:00
+12,2,50,5,Plug and play,"NetBolt Storage 02: Setup was completely plug and play simple and seamless: 5 stars",2026-02-02 16:10:00
+13,2,14,2,Near data loss,"NetBolt Storage 02: Had a near data loss event after one month not confident in reliability: 2 stars",2026-02-09 10:50:00
+14,2,28,4,Works everywhere,"NetBolt Storage 02: Compact design and works seamlessly across all my devices: 4 stars",2026-02-16 13:25:00
+15,2,43,5,Exceeded expectations,"NetBolt Storage 02: Exceeded my expectations for the price with fast writes: 5 stars",2026-02-22 07:15:00
+16,2,57,4,Solid budget option,"NetBolt Storage 02: Solid storage for the budget tier and it feels durable: 4 stars",2026-02-28 18:40:00
+17,3,5,5,Incredible clarity,"KeyForge Audio 03: Incredible audio clarity right out of the box really nailed it: 5 stars",2026-01-06 11:30:00
+18,3,19,4,Rich warm sound,"KeyForge Audio 03: Sound profile is rich and warm great for music and calls: 4 stars",2026-01-14 15:45:00
+19,3,33,3,Good not great,"KeyForge Audio 03: Good audio overall but connection can be unreliable at range: 3 stars",2026-01-21 09:55:00
+20,3,47,5,Best in class,"KeyForge Audio 03: Best in class audio for this price range I recommend it to everyone: 5 stars",2026-02-03 17:20:00
+21,3,6,1,Stopped working,"KeyForge Audio 03: Stopped working after five days and support was very slow: 1 stars",2026-02-10 08:35:00
+22,3,20,4,Solid quality,"KeyForge Audio 03: Solid audio quality and the design looks premium happy with it: 4 stars",2026-02-17 12:10:00
+23,3,35,5,Great daily audio,"KeyForge Audio 03: Great for everyday audio use easy setup and consistent sound: 5 stars",2026-02-23 16:50:00
+24,3,54,3,Mixed feelings,"KeyForge Audio 03: Sound is good but the build quality feels cheap for the price: 3 stars",2026-03-01 10:25:00
+25,4,9,5,Perfect accessory,"LogiTech Accessories 04: Perfect addition to my desk setup accessories always deliver: 5 stars",2026-01-04 13:20:00
+26,4,23,4,Solid pick,"LogiTech Accessories 04: Solid accessory that fits my workflow and works great: 4 stars",2026-01-16 16:40:00
+27,4,37,4,Great value,"LogiTech Accessories 04: Great value for an accessory does exactly what I need: 4 stars",2026-01-24 10:15:00
+28,4,51,2,Feels cheap,"LogiTech Accessories 04: Feels cheaply made for the price expected better quality: 2 stars",2026-02-04 14:30:00
+29,4,15,5,Highly recommended,"LogiTech Accessories 04: Highly recommended fits perfectly on my desk and improves workflow: 5 stars",2026-02-11 09:45:00
+30,4,30,3,Gets job done,"LogiTech Accessories 04: Gets the job done but nothing special average quality: 3 stars",2026-02-18 13:50:00
+31,4,45,5,Love it,"LogiTech Accessories 04: Love this accessory very well built and easy to use: 5 stars",2026-02-24 17:15:00
+32,4,59,4,Good everyday pick,"LogiTech Accessories 04: Good everyday accessory nice packaging and arrived quickly: 4 stars",2026-03-01 11:00:00
+33,5,2,5,Excellent speed,"LogiTech Storage 05: Excellent read and write speeds really impressed with this storage: 5 stars",2026-01-07 10:35:00
+34,5,16,4,Reliable and fast,"LogiTech Storage 05: Reliable and fast has handled all my large file transfers: 4 stars",2026-01-18 14:55:00
+35,5,31,3,Expected more,"LogiTech Storage 05: Decent performance but expected more at this price point: 3 stars",2026-01-25 09:20:00
+36,5,46,5,Best storage yet,"LogiTech Storage 05: Best storage device I have bought seamless setup and fast: 5 stars",2026-02-05 17:40:00
+37,5,1,2,Issues from day one,"LogiTech Storage 05: Had connectivity issues from day one support took over a week: 2 stars",2026-02-12 08:55:00
+38,5,18,4,Great long term,"LogiTech Storage 05: Great option for long term storage needs compact and reliable: 4 stars",2026-02-19 13:10:00
+39,5,32,5,Exceeded expectations,"LogiTech Storage 05: Exceeded my expectations for storage a premium product: 5 stars",2026-02-25 16:30:00
+40,5,49,3,Average product,"LogiTech Storage 05: Average performance for the price point nothing outstanding: 3 stars",2026-03-01 12:45:00
+41,6,4,5,Amazing peripheral,"SoundSphere Peripherals 06: Amazing peripheral device responsive and beautifully designed: 5 stars",2026-01-05 11:25:00
+42,6,21,4,Solid choice,"SoundSphere Peripherals 06: Solid peripheral for everyday use top notch quality: 4 stars",2026-01-13 15:40:00
+43,6,38,3,Good but average,"SoundSphere Peripherals 06: Good peripheral but nothing that sets it apart: 3 stars",2026-01-23 09:30:00
+44,6,52,5,Great for desk,"SoundSphere Peripherals 06: Great peripheral for my desk works seamlessly with everything: 5 stars",2026-02-02 17:50:00
+45,6,10,1,Broke after a week,"SoundSphere Peripherals 06: Stopped responding after one week very disappointed: 1 stars",2026-02-09 08:20:00
+46,6,25,4,Well built,"SoundSphere Peripherals 06: Well built and responsive would recommend to anyone: 4 stars",2026-02-16 12:35:00
+47,6,40,5,Best peripheral,"SoundSphere Peripherals 06: Best peripheral I own really delivers on quality: 5 stars",2026-02-22 16:55:00
+48,6,56,3,Mixed experience,"SoundSphere Peripherals 06: Works fine but the initial setup was frustrating: 3 stars",2026-02-28 11:10:00
+49,7,8,5,Great office product,"DockMate Office 07: Great office product fits perfectly on my desk keeps things organized: 5 stars",2026-01-06 10:20:00
+50,7,24,4,Improved my setup,"DockMate Office 07: Really improved my office setup easy to use and well built: 4 stars",2026-01-17 14:35:00
+51,7,39,3,Decent office tool,"DockMate Office 07: Decent office product but assembly instructions could be clearer: 3 stars",2026-01-26 09:50:00
+52,7,53,5,Love the design,"DockMate Office 07: Love the sleek design perfect office companion and very practical: 5 stars",2026-02-06 18:05:00
+53,7,12,2,Below average,"DockMate Office 07: Not what I expected quality is below average for the price: 2 stars",2026-02-11 08:30:00
+54,7,27,4,Great for productivity,"DockMate Office 07: Great office product for boosting productivity nailed the design: 4 stars",2026-02-18 12:45:00
+55,7,41,5,Perfect addition,"DockMate Office 07: Perfect addition to my office sturdy and looks very professional: 5 stars",2026-02-24 17:00:00
+56,7,58,4,Works well,"DockMate Office 07: Works well for my daily office needs good value and reliable: 4 stars",2026-03-01 11:15:00
+57,8,11,5,Blazing fast,"VoltEdge Networking 08: Blazing fast and rock solid has transformed my home network: 5 stars",2026-01-07 11:30:00
+58,8,26,4,Solid networking,"VoltEdge Networking 08: Solid networking product easy setup and consistently fast: 4 stars",2026-01-19 15:45:00
+59,8,42,3,Average speeds,"VoltEdge Networking 08: Average networking speeds for the price works but nothing special: 3 stars",2026-01-27 09:15:00
+60,8,55,5,Best network gear,"VoltEdge Networking 08: Best networking gear I have used consistent speeds and strong signal: 5 stars",2026-02-07 18:30:00
+61,8,13,2,Frequent disconnects,"VoltEdge Networking 08: Frequent disconnects have been an issue support was slow: 2 stars",2026-02-12 08:45:00
+62,8,28,4,Reliable product,"VoltEdge Networking 08: Reliable networking product held up well over two months: 4 stars",2026-02-19 13:00:00
+63,8,44,5,Very impressed,"VoltEdge Networking 08: Very impressed with the performance delivers on networking: 5 stars",2026-02-25 17:15:00
+64,8,59,3,Gets job done,"VoltEdge Networking 08: Gets the job done for basic networking needs stable but slow: 3 stars",2026-03-01 12:30:00
+65,9,3,5,Premium office gear,"NetBolt Office 09: Premium office product well built and adds a professional touch: 5 stars",2026-01-08 10:45:00
+66,9,18,4,Great investment,"NetBolt Office 09: Great office product that justifies the price excellent quality: 4 stars",2026-01-20 15:00:00
+67,9,33,3,Good but pricey,"NetBolt Office 09: Good office product but the price is a bit high for what you get: 3 stars",2026-01-28 09:30:00
+68,9,47,5,Best office product,"NetBolt Office 09: Best office product I have purchased all year very impressed: 5 stars",2026-02-08 18:45:00
+69,9,6,1,Poor quality,"NetBolt Office 09: Very disappointed poor quality for such a high price: 1 stars",2026-02-13 08:00:00
+70,9,22,4,Solid addition,"NetBolt Office 09: Solid addition to my office looks premium and performs well: 4 stars",2026-02-20 12:15:00
+71,9,37,5,Worth every penny,"NetBolt Office 09: Worth every penny best office product I have owned: 5 stars",2026-02-26 16:30:00
+72,9,51,3,Mixed impressions,"NetBolt Office 09: Some features are great but could be better for the price: 3 stars",2026-03-01 11:45:00
+73,10,5,5,Great mobile gear,"KeyForge Mobile 10: Great mobile accessory that I now take everywhere: 5 stars",2026-01-09 11:00:00
+74,10,20,4,Handy product,"KeyForge Mobile 10: Handy mobile product fits easily in my bag works with everything: 4 stars",2026-01-21 15:15:00
+75,10,35,3,Decent value,"KeyForge Mobile 10: Decent value for a mobile product nothing special but reliable: 3 stars",2026-01-29 09:45:00
+76,10,50,5,Excellent on the go,"KeyForge Mobile 10: Excellent for on the go use keeps me productive everywhere: 5 stars",2026-02-09 19:00:00
+77,10,8,2,Battery issues,"KeyForge Mobile 10: Battery life is much shorter than advertised very disappointed: 2 stars",2026-02-14 08:15:00
+78,10,23,4,Solid mobile product,"KeyForge Mobile 10: Solid mobile product great for travel and works consistently: 4 stars",2026-02-21 13:30:00
+79,10,38,5,Must have mobile,"KeyForge Mobile 10: Love the portability and performance a must have product: 5 stars",2026-02-27 17:45:00
+80,10,53,3,Average but works,"KeyForge Mobile 10: Average product but gets the job done without major issues: 3 stars",2026-03-01 12:00:00
+81,11,7,5,Reliable storage,"AeroStand Storage 11: Reliable storage solution that also looks great on my desk: 5 stars",2026-01-10 10:15:00
+82,11,21,4,Great value storage,"AeroStand Storage 11: Great value storage fast enough for daily workflow and compact: 4 stars",2026-01-22 14:30:00
+83,11,36,3,Works as expected,"AeroStand Storage 11: Works exactly as expected not exciting but reliable: 3 stars",2026-01-30 09:00:00
+84,11,52,5,Exceeded expectations,"AeroStand Storage 11: Exceeded my expectations fast speeds and elegant design: 5 stars",2026-02-10 18:15:00
+85,11,15,2,Connectivity issues,"AeroStand Storage 11: Had connectivity issues in the first week frustrating experience: 2 stars",2026-02-15 08:30:00
+86,11,30,4,Good compact storage,"AeroStand Storage 11: Good compact storage works well with my laptop easy to carry: 4 stars",2026-02-22 13:45:00
+87,11,45,5,Best under 100,"AeroStand Storage 11: Best storage option under 100 dollars great quality for the price: 5 stars",2026-02-28 18:00:00
+88,11,60,4,Solid daily use,"AeroStand Storage 11: Solid for daily use files transfer quickly and feels durable: 4 stars",2026-03-01 12:15:00
+89,12,10,5,Amazing value,"ByteWorks Accessories 12: Amazing value for an accessory at this price exceeded expectations: 5 stars",2026-01-10 11:30:00
+90,12,24,4,Good desktop accessory,"ByteWorks Accessories 12: Good desktop accessory works well with my existing setup: 4 stars",2026-01-23 15:45:00
+91,12,39,3,Nothing special,"ByteWorks Accessories 12: Does what it promises but nothing special average product: 3 stars",2026-01-31 09:15:00
+92,12,53,5,Best accessory,"ByteWorks Accessories 12: Best accessory I have bought for the price excellent quality: 5 stars",2026-02-10 19:30:00
+93,12,17,2,Broke quickly,"ByteWorks Accessories 12: The accessory broke after three weeks not great quality: 2 stars",2026-02-15 08:45:00
+94,12,31,4,Works great,"ByteWorks Accessories 12: Works great for my daily needs fast shipping well packaged: 4 stars",2026-02-22 14:00:00
+95,12,46,5,Love it,"ByteWorks Accessories 12: Love this accessory great deal and very reliable: 5 stars",2026-02-28 18:15:00
+96,12,1,3,Acceptable quality,"ByteWorks Accessories 12: Acceptable quality for the price but seen better elsewhere: 3 stars",2026-03-01 12:30:00
+97,13,12,5,Top notch,"NetBolt Peripherals 13: Top notch peripheral fast and responsive right out of the box: 5 stars",2026-01-11 10:45:00
+98,13,26,4,Great build,"NetBolt Peripherals 13: Great build quality and very responsive excellent peripheral: 4 stars",2026-01-24 15:00:00
+99,13,41,3,Decent option,"NetBolt Peripherals 13: Decent option but there are better peripherals at this price: 3 stars",2026-02-01 09:30:00
+100,13,55,5,Worth every cent,"NetBolt Peripherals 13: Absolutely loving this peripheral worth every cent: 5 stars",2026-02-11 19:45:00
+101,13,19,2,Not responsive,"NetBolt Peripherals 13: Not responsive enough for my workflow disappointing product: 2 stars",2026-02-16 09:00:00
+102,13,34,4,Solid pick,"NetBolt Peripherals 13: Solid peripheral pick good quality works with all my devices: 4 stars",2026-02-23 14:15:00
+103,13,48,5,Best peripheral,"NetBolt Peripherals 13: Best peripheral I have ever owned really got this one right: 5 stars",2026-02-28 18:30:00
+104,13,4,3,Okay product,"NetBolt Peripherals 13: Works fine but I expected more for the money: 3 stars",2026-03-01 12:45:00
+105,14,14,5,Incredible gaming,"KeyForge Gaming 14: Incredible gaming performance has elevated my entire setup: 5 stars",2026-01-12 11:00:00
+106,14,29,4,Great for gaming,"KeyForge Gaming 14: Great gaming product with low latency and solid build: 4 stars",2026-01-25 15:15:00
+107,14,44,3,Good for casual,"KeyForge Gaming 14: Good for casual gaming but hardcore gamers may want higher end: 3 stars",2026-02-02 09:45:00
+108,14,58,5,Best gaming purchase,"KeyForge Gaming 14: Best gaming purchase this year performance is absolutely outstanding: 5 stars",2026-02-12 19:00:00
+109,14,9,2,Latency issues,"KeyForge Gaming 14: Noticeable latency during gaming sessions had to return it: 2 stars",2026-02-17 09:15:00
+110,14,23,4,Solid companion,"KeyForge Gaming 14: Solid gaming companion handles everything during long sessions: 4 stars",2026-02-24 14:30:00
+111,14,38,5,Love the feel,"KeyForge Gaming 14: Love the responsive feel during gaming a real winner: 5 stars",2026-02-28 18:45:00
+112,14,52,3,Average gaming,"KeyForge Gaming 14: Average gaming product works fine but does not stand out: 3 stars",2026-03-01 13:00:00
+113,15,16,5,Fast and reliable,"SoundSphere Storage 15: Fast and reliable storage surprisingly excellent performance: 5 stars",2026-01-13 10:15:00
+114,15,30,4,Good speeds,"SoundSphere Storage 15: Good read and write speeds great value for money: 4 stars",2026-01-26 14:30:00
+115,15,45,3,Average storage,"SoundSphere Storage 15: Average storage product reliable but nothing impressive: 3 stars",2026-02-03 09:00:00
+116,15,59,5,Impressive product,"SoundSphere Storage 15: Impressed that this performs so well fast and very compact: 5 stars",2026-02-13 19:15:00
+117,15,2,2,Slow transfers,"SoundSphere Storage 15: Slow transfer speeds compared to what was advertised: 2 stars",2026-02-18 09:30:00
+118,15,17,4,Solid choice,"SoundSphere Storage 15: Solid storage choice compatible with everything very portable: 4 stars",2026-02-25 14:45:00
+119,15,32,5,Best mid range,"SoundSphere Storage 15: Best mid range storage option I have found really delivered: 5 stars",2026-03-01 19:00:00
+120,15,47,4,Works well daily,"SoundSphere Storage 15: Works well for my daily storage needs fast and portable: 4 stars",2026-03-01 13:15:00
+121,16,20,5,Premium storage,"LogiTech Storage 16: Premium storage consistently fast speeds and solid build: 5 stars",2026-01-14 11:30:00
+122,16,35,4,Reliable high end,"LogiTech Storage 16: Reliable high end storage worth the investment: 4 stars",2026-01-27 15:45:00
+123,16,50,3,Good but pricey,"LogiTech Storage 16: Good storage but the price is steep for what you get: 3 stars",2026-02-04 10:15:00
+124,16,4,5,Outstanding,"LogiTech Storage 16: Outstanding storage performance continues to impress: 5 stars",2026-02-14 19:30:00
+125,16,19,2,Expected more,"LogiTech Storage 16: Expected more at this price performance has been inconsistent: 2 stars",2026-02-19 09:45:00
+126,16,34,4,Great for power users,"LogiTech Storage 16: Great storage option for power users fast reliable well built: 4 stars",2026-02-26 15:00:00
+127,16,49,5,Best storage ever,"LogiTech Storage 16: Best storage product I have ever used simply excellent: 5 stars",2026-03-01 19:15:00
+128,16,60,3,Decent performance,"LogiTech Storage 16: Decent performance but cheaper alternatives exist with similar speeds: 3 stars",2026-03-01 13:30:00
+129,17,13,5,Rich audio,"DockMate Audio 17: Rich and warm audio quality has become my go to product: 5 stars",2026-01-15 10:45:00
+130,17,27,4,Enjoyable audio,"DockMate Audio 17: Very enjoyable audio with a good soundstage great product: 4 stars",2026-01-28 15:00:00
+131,17,42,3,Decent audio,"DockMate Audio 17: Decent audio not the sharpest but the bass response is good: 3 stars",2026-02-05 09:30:00
+132,17,56,5,Best at this price,"DockMate Audio 17: Best audio product at this price point delivers every time: 5 stars",2026-02-15 19:45:00
+133,17,11,2,Sound cuts out,"DockMate Audio 17: Audio cuts out intermittently during long sessions needs a fix: 2 stars",2026-02-20 10:00:00
+134,17,25,4,Solid audio,"DockMate Audio 17: Solid audio quality for the price comfortable for extended use: 4 stars",2026-02-27 15:15:00
+135,17,40,5,Impressive clarity,"DockMate Audio 17: Impressive audio clarity has improved my home office experience: 5 stars",2026-03-01 19:30:00
+136,17,55,3,Average audio,"DockMate Audio 17: Average audio quality works well but nothing particularly great: 3 stars",2026-03-01 13:45:00
+137,18,22,5,Premium quality,"VoltEdge Peripherals 18: Premium peripheral quality products that are built to last: 5 stars",2026-01-16 11:00:00
+138,18,37,4,Great high end,"VoltEdge Peripherals 18: Great high end peripheral very responsive excellent build: 4 stars",2026-01-29 15:15:00
+139,18,51,3,Good but overpriced,"VoltEdge Peripherals 18: Good peripheral but the price feels too high: 3 stars",2026-02-06 09:45:00
+140,18,6,5,Worth the premium,"VoltEdge Peripherals 18: Completely worth the premium price exceptional product: 5 stars",2026-02-16 20:00:00
+141,18,21,2,Not worth it,"VoltEdge Peripherals 18: Not worth the price broke after only one month of light use: 2 stars",2026-02-21 10:15:00
+142,18,36,4,Solid premium,"VoltEdge Peripherals 18: Solid premium peripheral fast and responsive for all use cases: 4 stars",2026-02-28 15:30:00
+143,18,57,5,Best peripheral,"VoltEdge Peripherals 18: Best peripheral available at this tier truly outdone themselves: 5 stars",2026-03-01 19:45:00
+144,18,43,3,Adequate product,"VoltEdge Peripherals 18: Adequate performance but expected better at this price: 3 stars",2026-03-01 14:00:00
+145,19,28,5,Exceptional speeds,"NetBolt Networking 19: Exceptional networking speeds and rock solid connection: 5 stars",2026-01-17 11:15:00
+146,19,43,4,Strong product,"NetBolt Networking 19: Strong networking product with easy setup highly reliable: 4 stars",2026-01-30 15:30:00
+147,19,57,3,Decent networking,"NetBolt Networking 19: Decent networking option stable enough for working from home: 3 stars",2026-02-07 10:00:00
+148,19,11,5,Best home networking,"NetBolt Networking 19: Best home networking gear I have used worth every dollar: 5 stars",2026-02-17 20:15:00
+149,19,26,2,Constant drops,"NetBolt Networking 19: Had constant connection drops in the first week disappointed: 2 stars",2026-02-22 10:30:00
+150,19,40,4,Solid choice,"NetBolt Networking 19: Solid networking product consistent speeds easy to configure: 4 stars",2026-03-01 15:45:00
+151,19,55,5,Upgraded my network,"NetBolt Networking 19: Upgraded my entire home network exceptional product: 5 stars",2026-03-01 20:00:00
+152,19,2,3,Good not fastest,"NetBolt Networking 19: Good networking product but not the fastest option available: 3 stars",2026-03-01 14:15:00
+153,20,29,5,Excellent office,"SoundSphere Office 20: Excellent office product real quality in the office space: 5 stars",2026-01-18 11:30:00
+154,20,44,4,Great productivity,"SoundSphere Office 20: Great for office productivity fits seamlessly into my workflow: 4 stars",2026-01-31 15:45:00
+155,20,58,3,Decent office product,"SoundSphere Office 20: Decent office product does its job but some features missing: 3 stars",2026-02-08 10:15:00
+156,20,12,5,Best office addition,"SoundSphere Office 20: Best office addition this year a truly standout product: 5 stars",2026-02-18 20:30:00
+157,20,27,2,Let me down,"SoundSphere Office 20: This office product let me down quality control issues: 2 stars",2026-02-23 10:45:00
+158,20,41,4,Solid office piece,"SoundSphere Office 20: Solid office piece works great with my existing desk setup: 4 stars",2026-03-01 16:00:00
+159,20,56,5,Transformed my office,"SoundSphere Office 20: Has transformed my workspace absolutely love it: 5 stars",2026-03-01 20:15:00
+160,20,7,3,Average office product,"SoundSphere Office 20: Average office product works fine but does not stand out: 3 stars",2026-03-01 14:30:00
