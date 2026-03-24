@@ -2,6 +2,7 @@
 DROP TABLE IF EXISTS product_sales;
 DROP TABLE IF EXISTS products;
 DROP TABLE IF EXISTS customers;
+DROP VIEW IF EXISTS customers_safe;
 
 CREATE TABLE customers (
   customer_id      INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -14,6 +15,15 @@ CREATE TABLE customers (
   state            CHAR(2) NOT NULL,
   postal_code      TEXT NOT NULL
 );
+
+CREATE VIEW customers_safe AS
+SELECT
+    customer_id,
+    first_name,
+    last_name,
+    city,
+    state
+FROM customers;
 
 CREATE TABLE products (
   product_id   INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
